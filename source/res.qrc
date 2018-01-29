@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>loginbk.png</file>
+        <file>logo_school.png</file>
+        <file>login_left.jpg</file>
+        <file>login.jpg</file>
+        <file>login_in.gif</file>
+        <file>login_res.gif</file>
+        <file>password.png</file>
+        <file>user.png</file>
+        <file>scutlogo.png</file>
+        <file>qtDb.db</file>
+        <file>backg.jpg</file>
+    </qresource>
+</RCC>
